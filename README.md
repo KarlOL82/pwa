@@ -17,8 +17,7 @@ The J.A.T.E. text editor is a Progressive Web Application designed to allow user
 
 ## Installing and Running the App  
 To use the app, simply navigate to the live webpage using the above link and the text editor is ready to use in the browser upon page load. To install it locally for expedited and offline use, simply click the "Install" button in the browser and look for the icon on your desktop.  
-
-## License  
+  
 ## License
   ![License](https://img.shields.io/badge/license-MIT-green.svg)  
   https://opensource.org/licenses/MIT  
